@@ -1,0 +1,10 @@
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityTutorial.exe.config
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.csprojResolveAssemblyReference.cache
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityTutorial.exe
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityTutorial.pdb
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityFramework.dll
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityFramework.xml
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.exe
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.pdb
