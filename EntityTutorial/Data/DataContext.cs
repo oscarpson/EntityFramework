@@ -11,7 +11,7 @@ namespace EntityTutorial.Data
     {
         public DataContext()
         {
-            this.Database.Connection.ConnectionString = @"Server=.\sqlexpress;Database=Entitydb;User Id=sa;Password=mahavira;";
+            this.Database.Connection.ConnectionString = @"Server=.\sqlexpress;Database=Entitydb;User Id=sa;Password=*******;";
 
             //This blocks the creation of the database
             Database.SetInitializer<DataContext>(null);
