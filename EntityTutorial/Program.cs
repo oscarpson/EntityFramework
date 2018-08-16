@@ -22,7 +22,7 @@ namespace EntityTutorial
             Console.WriteLine("Insert Complete");
             Console.ReadKey();
 
-            /**
+            //TODO Comment  other functions  testing Select one function
             //Update Record
             var BlogToUpdate = blogManager.CSCreateBlog();
             BlogToUpdate.BlogId = 1;
@@ -36,7 +36,7 @@ namespace EntityTutorial
             blogManager.CSDeleteBlog(1);
             Console.WriteLine("Delete Complete");
             Console.ReadKey();
-             * */
+             
 
             //Select Record
             var FoundBlog = blogManager.CSGetBlog(1);
